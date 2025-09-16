@@ -1,0 +1,136 @@
+const certificatesData = [
+  {
+    studentId: "UB/DTCS/24B113",
+    name: "MANEGHO TOH GEMUH",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B101",
+    name: "ANDY AZINWI TABID TANTE",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B110",
+    name: "KOGGE LOVERT EBONG",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B109",
+    name: "KENYI MBOUMMEU MICHELLE",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B111",
+    name: "MAMBO NICOLAS MEDINY",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B102",
+    name: "ASHU TABI ELVIS",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B103",
+    name: "ATEM ATEMAFAC GEORGE",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B114",
+    name: "ANUMOH MICHAE",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B108",
+    name: "AGBOR ARREY GODWIL",
+    issueDate: "November 08, 2024",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+    {
+    studentId: "UB/DTCC/24B221",
+    name: "NGANJE FRANKLINE MOKOSA",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B216",
+    name: "TCHAPCHET CHAMBA ROMIAL",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCC/24B215",
+    name: "ASHU SAMUEL ASHU",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B204",
+    name: "ESSAMBE CAREL NTUNGWE",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B219",
+    name: "TIGOH EBAI EMILE TAFAH",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B208",
+    name: "ENANGA PRAISE LITAFAH-ENDELEY",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B205",
+    name: "NKEMKA FRITZ JUNIOR ALAMENDEM",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B209",
+    name: "JOHN ANDERSON OROCK",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B206",
+    name: "NKUMBE LARRY EWANE",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B225",
+    name: "MBAH ULRICH TENGEN",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B218",
+    name: "VITIN NADEGE NYINGMAH",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B210",
+    name: "TEGOMOH ZESHU MEGAN",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+  {
+    studentId: "UB/DTCS/24B203",
+    name: "ARREY NADIA OBEN",
+    issueDate: "May 19, 2025",
+    issuer: "University of Buea in Partnership DobreTech",
+  },
+];
+
+export default certificatesData;
